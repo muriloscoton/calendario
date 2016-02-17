@@ -26,7 +26,7 @@
 				$scope.app = "Lista Telefonica";
 				$scope.contatos = [
 					{nome: "Paulo", telefone: "99998888"},
-					{nome: "Ana", telefone: "99998877"},
+					{nome: "Ana Maria", telefone: "99998877"},
 					{nome: "Maria", telefone: "99998866"}
 				];
 		});
