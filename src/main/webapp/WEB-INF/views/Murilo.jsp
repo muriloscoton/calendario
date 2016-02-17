@@ -17,7 +17,7 @@
 		.table{
 			margint-top: 20px;
 		}
-	</style>
+	</style>    
 	<script src="js/angular/angular.js"></script>
 	<script src="js/bootstrap/bootstrap.js"></script>
 	<script>
